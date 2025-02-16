@@ -1,16 +1,16 @@
-## Hi there 👋
+# Gm! I'm stephen! 👋
 
-<!--
-**Derastephh/Derastephh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About me
+- 🔒 Smart Contract Auditor | Solidity
+- ⚡ Blockchain Security Engineer
+- 📫 Reach me on Twitter [@YourTwitter](https://x.com/derastephh)
 
-Here are some ideas to get you started:
+## Web3 Security
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Audits
+- [Smart Contract Audits and Findings by stephen](#)
+
+### Research
+
+### Solidity CTF Solutions & Writeups
+- [Damn Vulnerable DeFi](#)
