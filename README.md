@@ -14,3 +14,5 @@
 
 ### Solidity CTF Solutions & Writeups
 - [Damn Vulnerable DeFi](#)
+- [The Ethernaut CTF](#)
+- [Capture The Ether CTF](#)
