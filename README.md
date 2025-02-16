@@ -3,7 +3,7 @@
 ## About me
 - 🔒 Smart Contract Auditor | Solidity
 - ⚡ Blockchain Security Engineer
-- 📫 Reach me on Twitter [@YourTwitter](https://x.com/derastephh)
+- 📫 Reach me on Twitter [@derastephh](https://x.com/derastephh)
 
 ## Web3 Security
 
