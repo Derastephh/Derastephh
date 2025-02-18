@@ -16,4 +16,4 @@
 - [The Ethernaut CTF](https://github.com/Derastephh/ethernaut-solutions)
 - [Damn Vulnerable DeFi](#)
 - [Capture The Ether CTF](#)
-- [Twitter Find the Bug Challenges](#)
+- [Twitter Find the Bug Challenges](https://github.com/Derastephh/Twitter-SC-FindTheBug-Challenges)
