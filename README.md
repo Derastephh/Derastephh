@@ -13,6 +13,7 @@
 ### Research
 
 ### Solidity CTF Solutions & Writeups
+- [The Ethernaut CTF](https://github.com/Derastephh/ethernaut-solutions)
 - [Damn Vulnerable DeFi](#)
-- [The Ethernaut CTF](#)
 - [Capture The Ether CTF](#)
+- [Twitter Find the Bug Challenges](#)
