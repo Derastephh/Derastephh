@@ -1,7 +1,7 @@
 # Gm! I'm stephen! 👋
 
 ## About me
-- 🔒 Smart Contract Auditor | Solidity
+- 🔒 Smart Contract Auditor | Solidity | Rust
 - ⚡ Blockchain Developer
 - 📫 Reach me on Twitter [@derastephh](https://x.com/derastephh)
 
