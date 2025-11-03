@@ -22,5 +22,6 @@
 
 ### Solidity
 - [Real Estate Project](https://github.com/Derastephh/Real-Estate/tree/main)
+- [ProvableSEO](https://github.com/DappScout/Provable)
 
 ### Rust
