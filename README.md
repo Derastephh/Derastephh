@@ -1,4 +1,4 @@
-# Gm! I'm stephen! 👋
+# gm! I'm stephen! 👋
 
 ## About me
 - 🔒 Smart Contract Auditor | Solidity | Rust
