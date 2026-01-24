@@ -21,7 +21,8 @@
 ## Blockchain Development
 
 ### Solidity
-- [Real Estate Project](https://github.com/Derastephh/Real-Estate/tree/main)
+- [Real Estate](https://github.com/Derastephh/Real-Estate/tree/main)
 - [ProvableSEO](https://github.com/DappScout/Provable)
+- [Crowd Fund](https://github.com/Derastephh/Crowd-Fund)
 
 ### Rust
