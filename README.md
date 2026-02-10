@@ -8,7 +8,7 @@
 ## Web3 Security
 
 ### Security Audits
-- [Smart Contract Audits and Findings by stephen](https://github.com/Derastephh/audits)
+- [Audits](https://github.com/Derastephh/audits)
 
 ### Research
 
