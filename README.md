@@ -26,3 +26,5 @@
 - [Crowd Fund](https://github.com/Derastephh/Crowd-Fund)
 
 ### Rust
+# Mock Projects
+- [Guessing Game](https://github.com/Derastephh/guessing-game)
