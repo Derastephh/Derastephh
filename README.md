@@ -3,7 +3,7 @@
 ## About me
 - 🔒 Smart Contract Auditor | Solidity | Rust
 - ⚡ Blockchain Developer
-- 📫 Reach me on Twitter [@derastephh](https://x.com/derastephh)
+- 📫 Reach me on Twitter [@derastephh](https://x.com/derastephh) or Telegram [@derastephh](https://t.me/derastephh)
 
 ## Web3 Security
 
