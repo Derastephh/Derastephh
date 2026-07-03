@@ -18,6 +18,9 @@
 - [Damn Vulnerable DeFi](#)
 - [Capture The Ether CTF](#)
 
+### Writeups
+- [The First Thing I Check When I See Division in Solidity](https://medium.com/p/cb4e19619ebd)
+
 ## Blockchain Development
 
 ### Solidity
