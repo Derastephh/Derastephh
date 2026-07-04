@@ -11,10 +11,12 @@
 - [Audits](https://github.com/Derastephh/audits)
 
 ### Research
+- [Which ERC standard has produced the most vulnerabilities?](##)
+- [What percentage of deployed contracts could save gas with PUSH0?](##)
 
 ### Writeups
 - [The First Thing I Check When I See Division in Solidity](https://medium.com/p/cb4e19619ebd)
-- [EVM series](https://medium.com/p/d1329983e9c5)
+- [EVM series](https://github.com/Derastephh/EVM-series)
 
 ### Solidity CTF Solutions
 - [The Ethernaut CTF](https://github.com/Derastephh/ethernaut-solutions)
