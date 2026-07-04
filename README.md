@@ -12,14 +12,13 @@
 
 ### Research
 
+### Writeups
+- [The First Thing I Check When I See Division in Solidity](https://medium.com/p/cb4e19619ebd)
+- [EVM series](https://medium.com/p/d1329983e9c5)
+
 ### Solidity CTF Solutions
 - [The Ethernaut CTF](https://github.com/Derastephh/ethernaut-solutions)
 - [Twitter Find the Bug Challenges](https://github.com/Derastephh/Twitter-SC-FindTheBug-Challenges)
-- [Damn Vulnerable DeFi](#)
-- [Capture The Ether CTF](#)
-
-### Writeups
-- [The First Thing I Check When I See Division in Solidity](https://medium.com/p/cb4e19619ebd)
 
 ## Blockchain Development
 
